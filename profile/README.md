@@ -6,7 +6,6 @@ You can add your plugin contributions here.
 Please test and vote on your favorites.
 Note that these plugins have not been peer-reviewed.
 
-- [prehensile/albert-plugin-macos-browser-tabs-python](https://github.com/prehensile/albert-plugin-macos-browser-tabs-python) ![GitHub Repo stars](https://img.shields.io/github/stars/prehensile/albert-plugin-macos-browser-tabs-python)
 - [Pete-Hamlin/albert-plugin-python-obsidian](https://github.com/Pete-Hamlin/albert-plugin-python-obsidian) ![GitHub Repo stars](https://img.shields.io/github/stars/Pete-Hamlin/albert-plugin-python-obsidian)
 - [Pete-Hamlin/albert-plugin-python-paperless](https://github.com/Pete-Hamlin/albert-plugin-python-paperless) ![GitHub Repo stars](https://img.shields.io/github/stars/Pete-Hamlin/albert-plugin-python-paperless)
 - [albertlauncher/albert-plugin-contacts-akonadi](https://github.com/albertlauncher/albert-plugin-contacts-akonadi) ![GitHub Repo stars](https://img.shields.io/github/stars/Pete-Hamlin/albert-plugin-contacts-akonadi)
@@ -19,7 +18,8 @@ Note that these plugins have not been peer-reviewed.
 - [Bierchermuesli/albert-dig](https://github.com/Bierchermuesli/albert-dig) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-dig) dig like DNS Lookup utility
 - [Bierchermuesli/albert-ripe](https://github.com/Bierchermuesli/albert-ripe) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-ripe) Whois lookups with Ripe
 - [Bierchermuesli/albert-deepl](https://github.com/Bierchermuesli/albert-deepl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-deepl) deepl translation
-
+- [prehensile/albert-plugin-macos-browser-tabs-python](https://github.com/prehensile/albert-plugin-macos-browser-tabs-python) ![GitHub Repo stars](https://img.shields.io/github/stars/prehensile/albert-plugin-macos-browser-tabs-python)
+- [prehensile/albert-plugin-python-macos-system-preferences](https://github.com/prehensile/albert-plugin-python-macos-system-preferences) ![GitHub Repo stars](https://img.shields.io/github/stars/prehensile/albert-plugin-python-macos-system-preferences)
 
 ## Old/Unmaintained offcial plugins
 
