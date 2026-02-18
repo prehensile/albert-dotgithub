@@ -18,8 +18,8 @@ Note that these plugins have not been peer-reviewed.
 - [Bierchermuesli/albert-dig](https://github.com/Bierchermuesli/albert-dig) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-dig) dig like DNS Lookup utility
 - [Bierchermuesli/albert-ripe](https://github.com/Bierchermuesli/albert-ripe) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-ripe) Whois lookups with Ripe
 - [Bierchermuesli/albert-deepl](https://github.com/Bierchermuesli/albert-deepl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-deepl) deepl translation
-- [prehensile/albert-plugin-macos-browser-tabs-python](https://github.com/prehensile/albert-plugin-macos-browser-tabs-python) ![GitHub Repo stars](https://img.shields.io/github/stars/prehensile/albert-plugin-macos-browser-tabs-python)
-- [prehensile/albert-plugin-python-macos-system-preferences](https://github.com/prehensile/albert-plugin-python-macos-system-preferences) ![GitHub Repo stars](https://img.shields.io/github/stars/prehensile/albert-plugin-python-macos-system-preferences)
+- [prehensile/albert-plugin-macos-browser-tabs-python](https://github.com/prehensile/albert-plugin-macos-browser-tabs-python) ![GitHub Repo stars](https://img.shields.io/github/stars/prehensile/albert-plugin-macos-browser-tabs-python) Lists and focuses open tabs in Webkit and Chromium based browsers on macOS.
+- [prehensile/albert-plugin-python-macos-system-preferences](https://github.com/prehensile/albert-plugin-python-macos-system-preferences) ![GitHub Repo stars](https://img.shields.io/github/stars/prehensile/albert-plugin-python-macos-system-preferences) Makes preference panes from macOS System Preferences available in Albert.
 
 ## Old/Unmaintained offcial plugins
 
